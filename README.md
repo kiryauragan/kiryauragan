@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kyrylo Taranskyi<br><br>- 🔭 I’ve finished FrontEnd Basic course (HTML+CSS)<br><br>- 🌱 I’m learning JavaScript and React.js now<br><br>- 📫 How to reach me kirilltaranskyi@gmail.com<br><br>- ⚡ Fun fact that the first computer bug was an actual bug
+Hi 👋, I'm Kyrylo Taranskyi<br><br>- 🔭 I’ve finished FrontEnd Basic course (HTML+CSS)<br><br>- 🌱 I’m learning JavaScript, React and Node.js now<br><br>- 📫 How to reach me kirilltaranskyi@gmail.com<br><br>- ⚡ Fun fact that the first computer bug was an actual bug
 
 
 ## 🌐 Socials:
